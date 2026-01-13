@@ -1,5 +1,5 @@
 # UFCDataVisualizer
-Plots UFC Data in an interactive Shiny App using ggplot
+Plots UFC Data in an interactive RShiny App using ggplot
 library(shiny)
 library(shinythemes)
 library(tidyverse)
