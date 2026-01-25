@@ -22,8 +22,6 @@ library(ggplot2)
 library(ggmosaic)
 library(rsconnect)
 
-setwd("/Users/mateoshelton/Desktop/ShinyApp")
-
 ufc_data <- read.csv("FighterStats.csv")
 
 ui <- fluidPage( theme = shinytheme("lumen"),
@@ -87,7 +85,7 @@ server <- function(input, output, session) {
 
   output$main_plot <- renderPlotly({
 
-    ufc_data <- read.csv("SmallFighterStats.csv")
+    ufc_data <- read.csv("FighterStats.csv")
     
     plot_data = filtered_data()
 
