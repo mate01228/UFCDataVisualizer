@@ -1,0 +1,122 @@
+Fighter_Id,Full Name,Nickname,Height,Weight,Stance,Wins,Losses,Ties,Belt,Rounds,Knockdown,Significant_Strikes_Landed,Takedown_per15min,Submission_per15min,Control_Time,Significant_Strike_Accuracy%,Head_Accuracy%,Body_Accuracy%,Leg_Accuracy%,Clinch_Strikes%,Ground_Strikes%,Submission_Attempts,Weight_Class,Gender,Fighting Style
+Israel 'The Last Stylebender' Adesanya,Israel Adesanya,The Last Stylebender,6.4,185.0,Switch,24,5,0,FALSE,3.67,0.22,65.06,0.33,0.0,34.17,0.49,0.36,0.71,0.81,0.49,0.38,0.17,Middleweight,Male,Striker
+Magomed 'No Nickname' Ankalaev,Magomed Ankalaev,No Nickname,6.3,205.0,Orthodox,21,1,1,TRUE,2.62,0.5,42.44,0.44,0.0,193.81,0.54,0.42,0.78,0.92,0.67,0.63,0.0,Light Heavyweight,Male,Striker
+Kai 'No Nickname' Asakura,Kai Asakura,No Nickname,5.8,125.0,Orthodox,21,6,0,FALSE,2.0,0.0,19.0,0.0,0.0,12.5,0.41,0.36,0.63,0.84,0.0,0.0,0.0,Flyweight,Male,Hybrid
+Tom 'No Nickname' Aspinall,Tom Aspinall,No Nickname,6.5,256.0,Orthodox,15,3,0,TRUE,1.11,0.44,11.78,0.11,0.0,34.0,0.7,0.59,0.65,0.67,0.29,0.65,0.22,Heavyweight,Male,Striker
+Edson 'Junior' Barboza,Edson Barboza,Junior,5.11,155.0,Orthodox,24,13,0,FALSE,2.71,0.52,58.94,0.65,0.19,47.48,0.46,0.3,0.67,0.76,0.37,0.36,0.06,Lightweight,Male,Hybrid
+Mario 'No Nickname' Bautista,Mario Bautista,No Nickname,5.9,135.0,Switch,16,2,0,FALSE,2.17,0.08,54.5,1.25,0.33,133.75,0.48,0.39,0.74,0.7,0.56,0.42,0.5,Bantamweight,Male,Striker
+Gabriel 'Moggly' Benitez,Gabriel Benitez,Moggly,5.8,155.0,Southpaw,23,13,0,FALSE,2.13,0.47,47.6,1.07,0.6,22.33,0.42,0.31,0.74,0.9,0.36,0.39,0.53,Lightweight,Male,Striker
+Michael 'The Count' Bisping,Michael Bisping,The Count,6.1,185.0,Orthodox,30,9,0,FALSE,2.72,0.28,54.48,1.17,0.21,68.48,0.38,0.32,0.66,0.84,0.59,0.38,0.17,Middleweight,Male,Hybrid
+Gilbert 'Durinho' Burns,Gilbert Burns,Durinho,5.1,170.0,Orthodox,22,9,0,FALSE,2.62,0.29,42.79,1.62,0.29,175.83,0.49,0.4,0.72,0.72,0.46,0.57,0.38,Welterweight,Male,Striker
+Jared 'The Killa Gorilla' Cannonier,Jared Cannonier,The Killa Gorilla,5.11,185.0,Switch,18,9,0,FALSE,3.05,0.4,61.95,1.0,0.05,90.65,0.5,0.41,0.7,0.86,0.62,0.47,0.0,Middleweight,Male,Striker
+Spike 'Alpha Ginger' Carlyle,Spike Carlyle,Alpha Ginger,5.8,145.0,Switch,9,3,0,FALSE,2.33,0.0,36.33,1.33,0.0,268.67,0.56,0.54,0.46,0.92,0.71,0.61,0.33,Featherweight,Male,Striker
+Henry 'Triple C' Cejudo,Henry Cejudo,Triple C,5.4,135.0,Orthodox,16,5,0,FALSE,2.87,0.33,51.93,1.0,0.07,167.93,0.48,0.37,0.75,0.73,0.54,0.44,0.13,Bantamweight,Male,Striker
+Donald 'Cowboy' Cerrone,Donald Cerrone,Cowboy,6.1,155.0,Orthodox,36,17,0,FALSE,2.13,0.5,44.89,0.61,0.24,60.95,0.48,0.32,0.71,0.85,0.51,0.34,0.29,Welterweight,Male,Striker
+Giga 'Ninja' Chikadze,Giga Chikadze,Ninja,6.0,145.0,Orthodox,15,5,0,FALSE,2.82,0.36,48.27,0.64,0.0,17.27,0.45,0.37,0.65,0.76,0.17,0.56,0.18,Featherweight,Male,Hybrid
+Khamzat 'Borz' Chimaev,Khamzat Chimaev,Borz,6.2,185.0,Orthodox,15,0,0,TRUE,2.0,0.11,23.89,0.44,0.44,323.44,0.63,0.61,0.51,0.44,0.09,0.72,1.0,Catch Weight,Male,Striker
+Daniel 'DC' Cormier,Daniel Cormier,DC,5.11,235.0,Orthodox,22,3,0,FALSE,3.0,0.2,54.47,1.47,0.33,251.47,0.57,0.53,0.82,0.72,0.67,0.62,0.53,Heavyweight,Male,Striker
+Waldo 'Salsa Boy' Cortes-Acosta,Waldo Cortes-Acosta,Salsa Boy,6.4,260.0,Orthodox,14,2,0,FALSE,2.67,0.22,56.11,0.67,0.11,77.44,0.46,0.4,0.59,0.82,0.48,0.13,0.11,Heavyweight,Male,Hybrid
+Tracy 'No Nickname' Cortez,Tracy Cortez,No Nickname,5.5,125.0,Orthodox,12,2,0,FALSE,3.29,0.0,49.29,1.43,0.29,366.43,0.51,0.44,0.71,0.75,0.7,0.54,0.43,Women's Flyweight,Female,Striker
+Colby 'Chaos' Covington,Colby Covington,Chaos,5.11,170.0,Orthodox,17,5,0,FALSE,3.59,0.06,59.82,2.24,0.29,441.41,0.46,0.41,0.65,0.72,0.53,0.58,0.18,Welterweight,Male,Striker
+Paul 'Bearjew' Craig,Paul Craig,Bearjew,6.3,205.0,Orthodox,17,10,1,FALSE,1.86,0.1,22.29,0.52,0.38,65.19,0.5,0.35,0.65,0.63,0.43,0.34,0.71,Light Heavyweight,Male,Hybrid
+Dominick 'The Dominator' Cruz,Dominick Cruz,The Dominator,5.8,135.0,Orthodox,24,4,0,FALSE,3.8,0.4,72.8,2.5,0.1,135.8,0.42,0.34,0.57,0.8,0.59,0.41,0.1,Bantamweight,Male,Striker
+Beneil 'No Nickname' Dariush,Beneil Dariush,No Nickname,5.1,155.0,Southpaw,23,6,1,FALSE,2.08,0.33,31.92,0.62,0.5,221.12,0.49,0.39,0.7,0.83,0.56,0.37,0.5,Lightweight,Male,Striker
+Reinier 'RdR' de Ridder,Reinier de Ridder,RdR,6.4,185.0,Southpaw,21,2,0,FALSE,3.0,0.4,30.2,0.2,0.2,302.8,0.59,0.54,0.79,0.16,0.69,0.65,0.6,Middleweight,Male,Striker
+Jack 'No Nickname' Della Maddalena,Jack Della Maddalena,No Nickname,5.11,170.0,Switch,18,2,0,TRUE,2.25,0.62,59.62,1.38,0.12,23.5,0.53,0.47,0.68,0.58,0.74,0.64,0.12,Welterweight,Male,Striker
+Nick 'No Nickname' Diaz,Nick Diaz,No Nickname,6.1,170.0,Southpaw,26,10,0,FALSE,3.0,0.2,53.93,0.93,0.87,118.0,0.42,0.37,0.62,0.51,0.54,0.36,0.87,Middleweight,Male,Wrestler
+Nate 'No Nickname' Diaz,Nate Diaz,No Nickname,6.0,170.0,Southpaw,22,13,0,FALSE,2.67,0.26,52.48,0.96,0.85,105.11,0.43,0.38,0.57,0.67,0.69,0.34,0.96,Welterweight,Male,Wrestler
+TJ 'No Nickname' Dillashaw,TJ Dillashaw,No Nickname,5.6,135.0,Orthodox,18,5,0,FALSE,2.78,0.39,59.5,1.33,0.61,180.83,0.4,0.31,0.68,0.69,0.38,0.56,0.67,Bantamweight,Male,Striker
+Dricus 'Stillknocks' Du Plessis,Dricus Du Plessis,Stillknocks,6.1,185.0,Switch,23,3,0,FALSE,3.2,0.0,65.6,2.0,0.3,105.4,0.5,0.4,0.73,0.8,0.45,0.64,0.7,Middleweight,Male,Striker
+Sedriques 'The Reaper' Dumas,Sedriques Dumas,The Reaper,6.2,185.0,Orthodox,10,3,0,FALSE,2.0,0.14,23.43,1.29,0.43,183.57,0.38,0.28,0.4,0.7,0.43,0.41,0.0,Middleweight,Male,Hybrid
+Merab 'The Machine' Dvalishvili,Merab Dvalishvili,The Machine,5.6,135.0,Orthodox,20,4,0,TRUE,3.44,0.06,58.19,4.62,0.38,383.31,0.43,0.35,0.69,0.78,0.67,0.55,0.31,Bantamweight,Male,Striker
+Frankie 'The Answer' Edgar,Frankie Edgar,The Answer,5.6,135.0,Orthodox,23,11,1,FALSE,3.3,0.23,63.27,2.1,0.47,211.23,0.44,0.36,0.64,0.72,0.44,0.52,0.33,Bantamweight,Male,Striker
+Leon 'Rocky' Edwards,Leon Edwards,Rocky,6.2,170.0,Southpaw,22,5,0,FALSE,3.63,0.16,47.68,2.11,0.42,212.95,0.57,0.47,0.73,0.71,0.71,0.56,0.42,Welterweight,Male,Striker
+Tim 'No Nickname' Elliott,Tim Elliott,No Nickname,5.7,125.0,Southpaw,22,13,1,FALSE,2.57,0.05,35.9,1.67,0.71,229.1,0.48,0.41,0.53,0.72,0.65,0.49,0.9,Flyweight,Male,Wrestler
+Josh 'CC0' Emmett,Josh Emmett,CC0,5.6,145.0,Orthodox,19,5,0,FALSE,2.75,0.5,56.69,0.94,0.12,63.19,0.35,0.27,0.55,0.78,0.17,0.32,0.06,Featherweight,Male,Hybrid
+Steve 'Astroboy' Erceg,Steve Erceg,Astroboy,5.8,125.0,Orthodox,13,4,0,FALSE,3.14,0.0,57.86,0.86,0.29,114.57,0.44,0.37,0.62,0.8,0.73,0.55,0.43,Bantamweight,Male,Striker
+Movsar 'No Nickname' Evloev,Movsar Evloev,No Nickname,5.7,145.0,Orthodox,19,0,0,FALSE,3.0,0.0,54.67,2.67,0.56,354.67,0.48,0.44,0.85,0.8,0.61,0.72,0.22,Featherweight,Male,Striker
+Urijah 'The California Kid' Faber,Urijah Faber,The California Kid,5.6,135.0,Orthodox,35,11,0,FALSE,3.0,0.28,42.78,1.44,0.5,154.5,0.46,0.42,0.64,0.73,0.6,0.51,0.5,Bantamweight,Male,Striker
+Paul 'The Irish Dragon' Felder,Paul Felder,The Irish Dragon,5.11,155.0,Orthodox,17,6,0,FALSE,2.87,0.13,47.13,1.53,0.33,102.13,0.46,0.36,0.71,0.86,0.65,0.52,0.2,Lightweight,Male,Striker
+Kevin 'Kimbo Slice' Ferguson,Kevin Ferguson,Kimbo Slice,6.2,235.0,Orthodox,5,2,0,FALSE,2.5,0.0,35.5,2.0,2.5,206.5,0.32,0.34,0.57,0.0,0.22,1.0,0.5,Heavyweight,Male,Wrestler
+Brunno 'The Hulk' Ferreira,Brunno Ferreira,The Hulk,5.1,185.0,Orthodox,14,2,0,FALSE,1.43,0.14,18.14,0.57,0.43,37.14,0.55,0.42,0.53,0.77,0.41,0.44,0.43,Middleweight,Male,Striker
+Manon 'The Beast' Fiorot,Manon Fiorot,The Beast,5.7,125.0,Orthodox,12,2,0,FALSE,3.0,0.11,64.44,0.56,0.11,116.78,0.45,0.37,0.69,0.78,0.55,0.58,0.0,Women's Flyweight,Female,Striker
+Rafael 'Ataman' Fiziev,Rafael Fiziev,Ataman,5.8,155.0,Switch,13,4,0,FALSE,2.73,0.0,58.0,0.91,0.0,55.18,0.58,0.35,0.63,0.86,0.57,0.36,0.0,Lightweight,Male,Striker
+Patricio 'Pitbull' Freire,Patricio Freire,Pitbull,5.6,145.0,Orthodox,37,8,0,FALSE,3.0,0.0,32.0,0.5,0.5,113.5,0.45,0.36,0.7,0.84,0.41,0.5,0.5,Featherweight,Male,Striker
+Justin 'The Highlight' Gaethje,Justin Gaethje,The Highlight,5.11,155.0,Orthodox,26,5,0,FALSE,2.57,0.36,75.0,0.14,0.0,25.0,0.59,0.49,0.76,0.85,0.6,0.3,0.0,Lightweight,Male,Striker
+Mateusz 'Gamer' Gamrot,Mateusz Gamrot,Gamer,5.1,155.0,Southpaw,25,3,0,FALSE,2.67,0.17,38.58,2.25,0.0,216.67,0.55,0.5,0.68,0.71,0.68,0.53,0.08,Lightweight,Male,Striker
+Ciryl 'Bon Gamin' Gane,Ciryl Gane,Bon Gamin,6.4,245.0,Orthodox,13,2,0,FALSE,3.0,0.17,59.0,0.5,0.58,80.25,0.64,0.47,0.8,0.92,0.7,0.44,0.58,Heavyweight,Male,Striker
+Cody 'No Love' Garbrandt,Cody Garbrandt,No Love,5.8,135.0,Orthodox,14,7,0,FALSE,2.19,0.44,29.88,0.56,0.0,34.81,0.42,0.36,0.44,0.75,0.39,0.38,0.0,Bantamweight,Male,Hybrid
+Kelvin 'No Nickname' Gastelum,Kelvin Gastelum,No Nickname,5.9,185.0,Southpaw,21,10,0,FALSE,2.88,0.52,49.0,1.08,0.16,110.36,0.43,0.34,0.7,0.8,0.58,0.43,0.08,Middleweight,Male,Striker
+Alexander 'The Mauler' Gustafsson,Alexander Gustafsson,The Mauler,6.5,205.0,Orthodox,18,8,0,FALSE,2.44,0.39,38.06,0.67,0.28,102.44,0.41,0.38,0.52,0.52,0.36,0.53,0.28,Light Heavyweight,Male,Hybrid
+Jack 'The Joker' Hermansson,Jack Hermansson,The Joker,6.1,185.0,Orthodox,24,9,0,FALSE,2.5,0.17,47.11,0.44,0.61,116.83,0.49,0.37,0.49,0.78,0.42,0.38,0.28,Middleweight,Male,Striker
+Anthony 'Fluffy' Hernandez,Anthony Hernandez,Fluffy,6.0,185.0,Orthodox,15,2,0,FALSE,2.73,0.09,43.09,3.09,0.82,388.45,0.56,0.53,0.67,0.57,0.62,0.66,1.36,Middleweight,Male,Wrestler
+Kevin 'Trailblazer' Holland,Kevin Holland,Trailblazer,6.3,170.0,Orthodox,28,14,0,FALSE,2.39,0.21,40.18,0.71,0.36,78.61,0.56,0.45,0.61,0.75,0.58,0.45,0.39,Welterweight,Male,Striker
+Max 'Blessed' Holloway,Max Holloway,Blessed,5.11,145.0,Orthodox,27,8,0,FALSE,3.42,0.23,112.06,0.39,0.19,53.29,0.46,0.38,0.71,0.75,0.66,0.43,0.32,Lightweight,Male,Striker
+Dan 'The Hangman' Hooker,Dan Hooker,The Hangman,6.0,155.0,Switch,24,12,0,FALSE,2.32,0.23,47.05,1.05,0.36,114.64,0.47,0.37,0.56,0.64,0.34,0.51,0.23,Lightweight,Male,Striker
+Dan '50K' Ige,Dan Ige,50K,5.7,145.0,Orthodox,19,10,0,FALSE,2.75,0.3,47.35,1.3,0.1,87.25,0.46,0.39,0.64,0.75,0.59,0.55,0.05,Featherweight,Male,Striker
+Nassourdine 'The Sniper' Imavov,Nassourdine Imavov,The Sniper,6.3,185.0,Orthodox,17,4,0,FALSE,3.25,0.0,53.42,0.67,0.25,143.08,0.56,0.5,0.7,0.78,0.8,0.55,1.0,Middleweight,Male,Striker
+Quinton 'Rampage' Jackson,Quinton Jackson,Rampage,6.1,205.0,Orthodox,37,12,0,FALSE,3.0,0.62,45.54,1.31,0.0,106.15,0.46,0.37,0.72,0.9,0.53,0.45,0.0,Catch Weight,Male,Striker
+Demetrious 'Mighty Mouse' Johnson,Demetrious Johnson,Mighty Mouse,5.3,125.0,Orthodox,27,3,1,FALSE,3.83,0.17,60.28,3.11,0.94,340.89,0.55,0.42,0.74,0.72,0.7,0.58,0.67,Flyweight,Male,Striker
+Jon 'Bones' Jones,Jon Jones,Bones,6.4,248.0,Orthodox,28,1,0,FALSE,3.21,0.21,62.17,1.67,0.46,211.33,0.59,0.49,0.73,0.72,0.64,0.59,0.46,Heavyweight,Male,Striker
+Manel 'StarBoy' Kape,Manel Kape,StarBoy,5.5,125.0,Southpaw,21,7,0,FALSE,2.56,0.56,57.0,0.78,0.11,22.67,0.56,0.5,0.74,0.8,0.42,0.4,0.22,Flyweight,Male,Striker
+Kai 'Don't Blink' Kara-France,Kai Kara-France,Don't Blink,5.4,125.0,Orthodox,25,12,0,FALSE,2.62,0.62,44.0,0.69,0.62,63.62,0.44,0.36,0.66,0.84,0.43,0.57,0.0,Flyweight,Male,Striker
+Mark 'The Smashing Machine' Kerr,Mark Kerr,The Smashing Machine,6.3,266.0,Switch,15,11,0,FALSE,1.0,0.25,5.75,0.75,0.25,133.22,0.6,0.57,0.0,0.25,0.25,0.44,0.25,Heavyweight,Male,Hybrid
+Brock 'No Nickname' Lesnar,Brock Lesnar,No Nickname,6.3,265.0,Orthodox,5,3,0,FALSE,1.88,0.62,31.0,1.88,0.25,249.38,0.65,0.56,0.83,0.71,0.72,0.67,0.25,Heavyweight,Male,Striker
+Derrick 'The Black Beast' Lewis,Derrick Lewis,The Black Beast,6.3,260.0,Orthodox,29,12,0,FALSE,2.2,0.43,25.93,0.7,0.03,61.63,0.5,0.46,0.67,0.43,0.55,0.41,0.0,Heavyweight,Male,Hybrid
+Vicente 'The Silent Assassin' Luque,Vicente Luque,The Silent Assassin,5.11,170.0,Orthodox,23,11,1,FALSE,2.21,0.5,51.04,0.96,0.46,82.79,0.5,0.4,0.64,0.79,0.56,0.42,0.42,Welterweight,Male,Striker
+Ian 'The Future' Machado Garry,Ian Machado Garry,The Future,6.3,170.0,Orthodox,16,1,0,FALSE,3.0,0.3,60.2,0.8,0.4,109.1,0.54,0.43,0.77,0.79,0.67,0.44,0.4,Welterweight,Male,Striker
+Shara 'Bullet' Magomedov,Shara Magomedov,Bullet,6.2,185.0,Orthodox,16,1,0,FALSE,2.83,0.33,82.17,0.0,0.0,19.33,0.62,0.46,0.83,0.8,0.79,0.23,0.0,Middleweight,Male,Striker
+Islam 'No Nickname' Makhachev,Islam Makhachev,No Nickname,5.1,170.0,Southpaw,27,1,0,FALSE,2.35,0.18,23.94,1.47,0.71,290.47,0.57,0.5,0.85,0.42,0.54,0.67,0.76,Lightweight,Male,Striker
+Marcus 'The Maniac' McGhee,Marcus McGhee,The Maniac,5.8,135.0,Orthodox,10,2,0,FALSE,2.2,0.2,38.8,0.2,0.0,34.6,0.47,0.42,0.56,0.7,0.51,0.28,0.2,Bantamweight,Male,Hybrid
+Conor 'The Notorious' McGregor,Conor McGregor,The Notorious,5.9,155.0,Southpaw,22,6,0,FALSE,2.0,0.21,40.5,0.79,0.21,59.36,0.52,0.5,0.57,0.49,0.54,0.66,0.07,Welterweight,Male,Striker
+Stipe 'No Nickname' Miocic,Stipe Miocic,No Nickname,6.4,240.0,Orthodox,20,5,0,FALSE,2.58,0.42,51.89,1.11,0.0,180.84,0.55,0.48,0.7,0.79,0.53,0.66,0.0,Heavyweight,Male,Striker
+Bryce 'Thug Nasty' Mitchell,Bryce Mitchell,Thug Nasty,5.1,135.0,Southpaw,18,4,0,FALSE,2.5,0.17,25.42,2.0,1.17,364.75,0.58,0.5,0.65,0.61,0.38,0.5,0.92,Bantamweight,Male,Wrestler
+Renato ‘Money' Moicano,Renato Moicano,No Nickname,5.11,155.0,Orthodox,20,7,1,FALSE,2.16,0.21,38.63,0.63,0.11,119.74,0.46,0.41,0.55,0.7,0.45,0.4,0.32,Lightweight,Male,Striker
+Brandon 'The Assassin Baby' Moreno,Brandon Moreno,The Assassin Baby,5.7,125.0,Orthodox,23,8,2,FALSE,3.5,0.33,65.06,1.89,0.28,180.89,0.45,0.4,0.74,0.74,0.52,0.48,0.44,Flyweight,Male,Striker
+Francis 'The Predator' Ngannou,Francis Ngannou,The Predator,6.4,250.0,Orthodox,17,3,0,FALSE,1.93,0.21,13.71,0.29,0.14,50.21,0.51,0.39,0.52,0.6,0.54,0.51,0.14,Heavyweight,Male,Hybrid
+Bo 'No Nickname' Nickal,Bo Nickal,No Nickname,6.1,185.0,Southpaw,7,1,0,FALSE,1.8,0.2,15.6,1.0,0.8,148.2,0.51,0.38,0.62,0.31,0.21,0.32,0.8,Middleweight,Male,Hybrid
+Amanda 'The Lioness' Nunes,Amanda Nunes,The Lioness,5.8,135.0,Orthodox,23,5,0,FALSE,2.61,0.11,48.0,1.78,0.5,233.22,0.56,0.52,0.53,0.75,0.35,0.61,0.56,Women's Bantamweight,Female,Striker
+Khabib 'The Eagle' Nurmagomedov,Khabib Nurmagomedov,The Eagle,5.1,155.0,Orthodox,29,0,0,FALSE,2.92,0.0,49.23,3.69,0.62,437.0,0.5,0.46,0.68,0.75,0.57,0.7,0.69,Lightweight,Male,Wrestler
+Umar 'No Nickname' Nurmagomedov,Umar Nurmagomedov,No Nickname,5.8,135.0,Orthodox,18,1,0,FALSE,2.86,0.14,43.86,1.71,0.14,287.0,0.62,0.57,0.6,0.86,0.44,0.51,0.29,Bantamweight,Male,Striker
+Sean 'Suga' O'Malley,Sean O'Malley,Suga,5.11,135.0,Switch,18,3,0,FALSE,2.57,0.21,72.43,1.07,0.21,8.64,0.6,0.52,0.73,0.95,0.48,0.44,0.21,Bantamweight,Male,Striker
+Charles 'Do Bronxs' Oliveira,Charles Oliveira,Do Bronxs,5.1,155.0,Orthodox,35,11,0,FALSE,1.97,0.22,24.11,1.0,0.69,135.39,0.53,0.42,0.6,0.78,0.56,0.55,1.31,Lightweight,Male,Wrestler
+Alistair 'The Demolition Man' Overeem,Alistair Overeem,The Demolition Man,6.4,265.0,Orthodox,47,19,0,FALSE,2.2,0.65,32.8,0.65,0.1,144.45,0.7,0.61,0.85,0.72,0.72,0.56,0.15,Heavyweight,Male,Striker
+Michael 'Venom' Page,Michael Page,Venom,6.3,185.0,Switch,24,3,0,FALSE,3.0,0.0,27.0,1.0,0.25,62.25,0.57,0.5,0.88,0.82,0.62,0.42,0.0,Middleweight,Male,Striker
+Alexandre 'The Cannibal' Pantoja,Alexandre Pantoja,The Cannibal,5.5,125.0,Orthodox,30,5,0,TRUE,2.76,0.18,53.65,2.35,0.82,244.59,0.52,0.46,0.75,0.62,0.59,0.6,0.82,Flyweight,Male,Striker
+BJ 'The Prodigy' Penn,BJ Penn,The Prodigy,5.9,155.0,Orthodox,16,14,2,FALSE,2.85,0.19,45.63,1.04,0.48,129.07,0.52,0.46,0.75,0.39,0.68,0.56,0.44,Lightweight,Male,Striker
+Alex 'Poatan' Pereira,Alex Pereira,Poatan,6.4,205.0,Orthodox,12,3,0,FALSE,2.58,0.5,52.5,0.42,0.17,13.17,0.64,0.49,0.8,0.83,0.66,0.47,0.17,Light Heavyweight,Male,Striker
+Aaron 'No Nickname' Pico,Aaron Pico,No Nickname,5.8,145.0,Orthodox,13,5,0,FALSE,1.0,0.0,13.0,2.0,0.0,121.0,0.44,0.3,1.0,1.0,0.6,1.0,0.0,Featherweight,Male,Striker
+Paddy 'The Baddy' Pimblett,Paddy Pimblett,The Baddy,5.1,155.0,Orthodox,23,3,0,FALSE,2.0,0.14,31.14,1.0,0.71,145.14,0.53,0.43,0.54,0.92,0.46,0.59,1.0,Lightweight,Male,Striker
+Dustin 'The Diamond' Poirier,Dustin Poirier,The Diamond,5.9,155.0,Southpaw,30,10,0,FALSE,2.53,0.47,57.34,0.78,0.88,131.31,0.51,0.46,0.62,0.79,0.59,0.43,0.78,Lightweight,Male,Striker
+Carlos 'The Nightmare' Prates,Carlos Prates,The Nightmare,6.1,170.0,Switch,22,7,0,FALSE,2.0,0.0,36.83,0.0,0.0,30.67,0.52,0.38,0.7,0.83,0.08,0.32,0.0,Welterweight,Male,Hybrid
+Jiri 'No Nickname' Prochazka,Jiri Prochazka,No Nickname,6.3,205.0,Orthodox,31,5,1,FALSE,2.62,0.5,62.12,0.88,0.38,84.25,0.51,0.47,0.71,0.77,0.74,0.45,0.12,Light Heavyweight,Male,Striker
+Shavkat 'Nomad' Rakhmonov,Shavkat Rakhmonov,Nomad,6.1,170.0,Orthodox,19,0,0,FALSE,2.29,0.14,26.86,0.71,0.43,319.43,0.58,0.53,0.79,0.43,0.53,0.49,0.86,Welterweight,Male,Striker
+Luke 'No Nickname' Rockhold,Luke Rockhold,No Nickname,6.3,185.0,Southpaw,16,6,0,FALSE,2.0,0.36,26.55,0.55,0.27,102.0,0.57,0.36,0.75,0.78,0.69,0.52,0.55,Middleweight,Male,Striker
+Yoel 'Soldier of God' Romero,Yoel Romero,Soldier of God,6.0,185.0,Southpaw,13,5,0,FALSE,3.31,0.31,45.62,0.54,0.08,113.08,0.54,0.47,0.69,0.78,0.62,0.68,0.0,Middleweight,Male,Striker
+Yoel 'Soldier of God' Romero,Yoel Romero,Soldier of God,6.0,185.0,Southpaw,13,5,0,FALSE,3.31,0.31,45.62,0.54,0.08,113.08,0.54,0.47,0.69,0.78,0.62,0.68,0.0,Middleweight,Male,Striker
+Khalil 'No Nickname' Rountree Jr.,Khalil Rountree Jr.,No Nickname,6.1,205.0,Southpaw,14,6,0,FALSE,2.28,0.28,36.17,0.11,0.11,10.61,0.46,0.39,0.6,0.53,0.43,0.3,0.06,Light Heavyweight,Male,Hybrid
+Brandon 'Raw Dawg' Royval,Brandon Royval,Raw Dawg,5.9,125.0,Southpaw,17,8,0,FALSE,2.73,0.27,62.82,1.0,0.64,51.91,0.42,0.37,0.65,0.64,0.59,0.53,0.91,Flyweight,Male,Striker
+Mauricio 'No Nickname' Ruffy,Mauricio Ruffy,No Nickname,5.11,155.0,Orthodox,12,2,0,FALSE,1.75,0.5,25.25,0.0,0.0,14.25,0.48,0.5,0.27,0.5,0.5,0.44,0.0,Catch Weight,Male,Hybrid
+Cory 'No Nickname' Sandhagen,Cory Sandhagen,No Nickname,5.11,135.0,Switch,18,5,0,FALSE,3.19,0.12,61.25,1.62,0.31,177.81,0.46,0.34,0.68,0.82,0.3,0.38,0.25,Bantamweight,Male,Striker
+Valentina 'Bullet' Shevchenko,Valentina Shevchenko,Bullet,5.5,125.0,Southpaw,25,4,1,TRUE,3.89,0.11,53.67,2.33,0.56,334.72,0.57,0.51,0.68,0.79,0.64,0.82,0.39,Women's Flyweight,Female,Striker
+Anderson 'The Spider' Silva,Anderson Silva,The Spider,6.2,185.0,Southpaw,34,11,0,FALSE,2.52,0.76,34.68,0.16,0.32,33.16,0.63,0.52,0.67,0.67,0.63,0.54,0.24,Middleweight,Male,Striker
+Wanderlei 'The Axe Murderer' Silva,Wanderlei Silva,The Axe Murderer,5.11,205.0,Orthodox,35,13,1,FALSE,2.33,0.75,32.92,0.25,0.08,25.9,0.41,0.32,0.44,0.53,0.47,0.36,0.08,Light Heavyweight,Male,Hybrid
+Jean 'White Bear' Silva,Jean Silva,White Bear,5.6,160.0,Orthodox,19,12,3,FALSE,1.83,0.17,31.67,0.67,0.0,7.5,0.56,0.49,0.73,0.62,0.69,0.38,0.5,Featherweight,Male,Striker
+Chael 'No Nickname' Sonnen,Chael Sonnen,No Nickname,6.1,205.0,Southpaw,29,15,1,FALSE,2.29,0.0,28.93,2.5,0.14,423.86,0.47,0.39,0.75,0.5,0.53,0.48,0.29,Middleweight,Male,Wrestler
+Serghei 'Polar Bear' Spivac,Serghei Spivac,Polar Bear,6.3,260.0,Orthodox,17,6,0,FALSE,1.86,0.0,25.71,0.57,0.07,163.79,0.46,0.42,0.46,0.33,0.28,0.44,0.29,Heavyweight,Male,Hybrid
+Georges 'Rush' St-Pierre,Georges St-Pierre,Rush,5.11,185.0,Orthodox,26,2,0,FALSE,3.23,0.36,58.23,3.95,1.05,441.91,0.56,0.49,0.72,0.65,0.62,0.6,1.09,Welterweight,Male,Wrestler
+Sean 'No Nickname' Strickland,Sean Strickland,No Nickname,6.1,185.0,Orthodox,29,7,0,FALSE,3.3,0.09,80.17,0.61,0.0,79.7,0.42,0.39,0.64,0.75,0.48,0.29,0.17,Middleweight,Male,Striker
+Cub 'No Nickname' Swanson,Cub Swanson,No Nickname,5.8,145.0,Orthodox,30,14,0,FALSE,2.68,0.48,64.04,0.8,0.32,54.64,0.52,0.45,0.71,0.73,0.61,0.42,0.08,Featherweight,Male,Striker
+Payton 'No Nickname' Talbott,Payton Talbott,No Nickname,5.1,135.0,Switch,10,1,0,FALSE,2.4,0.4,48.2,1.6,0.6,122.0,0.64,0.6,0.66,0.95,0.49,0.81,0.2,Bantamweight,Male,Striker
+Glover 'No Nickname' Teixeira,Glover Teixeira,No Nickname,6.2,205.0,Orthodox,33,9,0,FALSE,2.65,0.17,47.7,1.48,0.43,204.91,0.5,0.48,0.68,0.26,0.52,0.56,0.7,Light Heavyweight,Male,Wrestler
+Stephen 'Wonderboy' Thompson,Stephen Thompson,Wonderboy,6.0,170.0,Orthodox,17,9,1,FALSE,3.0,0.27,53.5,0.82,0.05,52.64,0.47,0.4,0.69,0.84,0.61,0.42,0.0,Welterweight,Male,Striker
+Ilia 'El Matador' Topuria,Ilia Topuria,El Matador,5.7,155.0,Orthodox,17,0,0,TRUE,2.22,0.44,38.44,0.33,0.11,125.33,0.51,0.45,0.72,0.62,0.47,0.75,0.67,Lightweight,Male,Striker
+Arman 'Ahalkalakets' Tsarukyan,Arman Tsarukyan,Ahalkalakets,5.7,155.0,Orthodox,22,3,0,FALSE,2.73,0.09,35.73,2.73,0.36,307.0,0.51,0.45,0.71,0.68,0.59,0.7,0.0,Lightweight,Male,Striker
+Tai 'Bam Bam' Tuivasa,Tai Tuivasa,Bam Bam,6.2,264.0,Southpaw,15,8,0,FALSE,1.81,0.44,35.0,0.69,0.19,50.44,0.5,0.41,0.62,0.64,0.54,0.27,0.0,Heavyweight,Male,Hybrid
+Kamaru 'The Nigerian Nightmare' Usman,Kamaru Usman,The Nigerian Nightmare,6.0,170.0,Switch,21,4,0,FALSE,3.74,0.53,59.21,2.53,0.32,463.68,0.53,0.46,0.75,0.77,0.67,0.76,0.11,Welterweight,Male,Striker
+Marlon 'Chito' Vera,Marlon Vera,Chito,5.8,135.0,Switch,23,10,1,FALSE,2.88,0.28,64.92,0.92,0.48,73.4,0.49,0.4,0.58,0.78,0.69,0.44,0.72,Bantamweight,Male,Striker
+Marvin 'The Italian Dream' Vettori,Marvin Vettori,The Italian Dream,6.0,185.0,Southpaw,19,9,1,FALSE,3.47,0.0,80.12,1.82,0.24,197.24,0.46,0.41,0.68,0.76,0.5,0.44,0.47,Middleweight,Male,Striker
+Alexander 'The Great' Volkanovski,Alexander Volkanovski,The Great,5.6,145.0,Orthodox,27,4,0,TRUE,3.41,0.29,89.76,1.82,0.0,201.24,0.57,0.47,0.72,0.79,0.71,0.51,0.18,Featherweight,Male,Striker
+Alexander 'Drago' Volkov,Alexander Volkov,Drago,6.7,250.0,Orthodox,38,11,0,FALSE,2.76,0.12,59.18,0.76,0.12,70.18,0.57,0.48,0.83,0.81,0.47,0.35,0.12,Heavyweight,Male,Striker
+Robert 'The Reaper' Whittaker,Robert Whittaker,The Reaper,6.0,185.0,Orthodox,27,9,0,FALSE,2.92,0.5,57.21,0.96,0.08,66.62,0.47,0.38,0.52,0.79,0.45,0.44,0.0,Middleweight,Male,Striker
+Zhang 'Magnum' Weili,Zhang Weili,Magnum,5.4,115.0,Switch,26,3,0,TRUE,3.17,0.25,63.58,2.0,0.5,284.83,0.59,0.49,0.67,0.74,0.7,0.68,0.5,Women's Strawweight,Female,Striker
