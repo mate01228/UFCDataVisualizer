@@ -17,7 +17,7 @@ Key Libraries: ggplot2, tidyverse, plotly
 - Interactive Data Visualizations: High quality plots that visualize complex data points into disgestable insights
 
 # Methodology and Statistics
-This project focuses on more than just making charts. As a Statistics major my goal was to show meaningful connections between well known and unknown fight statistics to better understand a fighters style and effectiveness.
+This project focuses on more than just making charts. As a Statistics majors our goal was to show meaningful connections between well known and unknown fight statistics to better understand a fighters style and effectiveness.
 
 - Data Cleaning/KPI Indentification: Handled irrelevant data to streamline the data analysis process
 
