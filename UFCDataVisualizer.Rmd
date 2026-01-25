@@ -24,7 +24,7 @@ library(rsconnect)
 
 setwd("/Users/mateoshelton/Desktop/ShinyApp")
 
-ufc_data <- read.csv("SmallFighterStats.csv")
+ufc_data <- read.csv("FighterStats.csv")
 
 ui <- fluidPage( theme = shinytheme("lumen"),
   titlePanel("UFC Data Visualizer"),
